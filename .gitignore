@@ -1,3 +1,9 @@
+# CONFIG FILE
+config.py
+
+# VIRUTALENV
+virtualenv/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
